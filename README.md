@@ -20,7 +20,7 @@ The main objective was to transform raw financial data into meaningful **busines
 ---
 
 ## 🖼 Dashboard Preview
-BankLoanDashboard_Screenshot.png
+https://github.com/SaicharanGudem/Bank_Loan_Analysis_PowerBI/blob/b69d383f86794eec93145bf3238e058dcac069c3/BankLoanDashboard_Screenshot.png
 
 ---
 
