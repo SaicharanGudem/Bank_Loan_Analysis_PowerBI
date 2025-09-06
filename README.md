@@ -20,10 +20,7 @@ The main objective was to transform raw financial data into meaningful **busines
 ---
 
 ## 🖼 Dashboard Preview
-*(Insert your dashboard screenshot here — e.g., `screenshot.png`)*  
-Example:  
-
-![Dashboard Screenshot](screenshot.png)
+BankLoanDashboard_Screenshot.png
 
 ---
 
