@@ -1,5 +1,9 @@
 # 📊 Bank Loan Analysis Dashboard (Power BI)
 
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-F2C811?logo=power-bi&logoColor=black)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-blue)
+
 ---
 
 ## 📌 Project Overview
@@ -20,7 +24,8 @@ The main objective was to transform raw financial data into meaningful **busines
 ---
 
 ## 🖼 Dashboard Preview
-https://github.com/SaicharanGudem/Bank_Loan_Analysis_PowerBI/blob/b69d383f86794eec93145bf3238e058dcac069c3/BankLoanDashboard_Screenshot.png
+![Dashboard Screenshot](BankLoanDashboard_Screenshot.png)
+
 
 ---
 
